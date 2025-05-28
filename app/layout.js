@@ -11,6 +11,10 @@ export default function RootLayout({ children }) {
     <html style={{height: '100%', width: '100%'}} lang="en">
       <body style={{margin: '0px'}}>
         
+
+    
+
+
      {/* <MainHeader /> */}
         {children}
       </body>
