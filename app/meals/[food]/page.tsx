@@ -2,6 +2,9 @@
 import { use } from "react"
 import { useParams } from "next/navigation";
 
+
+
+
 const Food = ({params}) => {
 
     const param = useParams();
@@ -26,4 +29,6 @@ return <>
 
 }
 
+
 export default Food;
+
